@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.pyc
+
+# Models
+*.pkl
+*.h5
+
+# Datasets
+*.csv
+
+# Archives
+*.zip
+
+# Outputs
+*.png
+
+# Notebooks
+.ipynb_checkpoints/
